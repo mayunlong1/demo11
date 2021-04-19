@@ -1,0 +1,56 @@
+{
+  "uid" : "b8beedb0296b6411",
+  "name" : "test_demo[a0-b0]",
+  "fullName" : "test_a#test_demo",
+  "historyId" : "e9b02e7b62610713902c99922afe9b8c",
+  "time" : {
+    "start" : 1618816760940,
+    "stop" : 1618816760940,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_a"
+  }, {
+    "name" : "host",
+    "value" : "YLwin10"
+  }, {
+    "name" : "thread",
+    "value" : "19036-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_a"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "[1, 2, 3]"
+  }, {
+    "name" : "b",
+    "value" : "[4, 5, 6]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8beedb0296b6411.json",
+  "parameterValues" : [ "[1, 2, 3]", "[4, 5, 6]" ]
+}
